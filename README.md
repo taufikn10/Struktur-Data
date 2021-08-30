@@ -10,4 +10,3 @@ Materi Struktur Data Semester 2
 7. Double-Linked-List
 8. Searching
 9. Sorting
-10. Classes-and-Object 
